@@ -61,7 +61,7 @@ public class Analyzer extends Item {
                 itemsfromfile.remove(clickedBlock.toString());
                 context.getPlayer().addExperience(5);
 
-                context.getPlayer().sendMessage(Text.of("§Analyzed: " + clickedBlock.toString()), true);
+                context.getPlayer().sendMessage(Text.of("§a Analyzed: " + clickedBlock.toString()), true);
 
 
 
