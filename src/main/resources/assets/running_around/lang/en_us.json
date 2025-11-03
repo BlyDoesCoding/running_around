@@ -1,0 +1,5 @@
+{
+  "item.running_around.analyzer": "Analyzer",
+  "item.running_around.scanner": "Scanner",
+  "block.running_around.collectable": "Collectable"
+}
