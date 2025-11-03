@@ -4,7 +4,9 @@
   "version": "${version}",
   "name": "Running Around",
   "description": "",
-  "authors": [],
+  "authors": [
+    "Lia Brüggemann"
+  ],
   "contact": {},
   "license": "BSD-3-Clause",
   "icon": "assets/running_around/icon.png",
