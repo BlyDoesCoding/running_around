@@ -19,7 +19,6 @@ public class RunningAwayItems {
     }
 
     public static void registerModItems() {
-
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(entries -> {
             entries.add(Analyzer);
             entries.add(Scanner);
